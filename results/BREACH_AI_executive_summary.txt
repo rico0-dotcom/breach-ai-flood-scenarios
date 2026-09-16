@@ -1,0 +1,73 @@
+BREACH-AI — Prototype Executive Summary
+
+OBJECTIVE
+Develop a probabilistic AI framework for extending predominantly
+single-breach flood scenarios toward spatially dependent multi-breach events.
+
+DATA
+- 633 primary breach locations in the live LIWO inventory
+- 1,856 scenario records
+- 619 scenario-bearing locations
+- 610 locations with usable numeric damage observations
+
+MODEL BENCHMARK
+Best tabular benchmark:
+Random Forest with multi-scale spatial-density features
+MAE = 0.1877
+R² = 0.1893
+
+Best tested GNN:
+Multi-scale GNN
+MAE = 0.2150
+R² = 0.0614
+
+GENERATOR BEHAVIOUR
+For 3-breach events:
+
+Independent mean pair distance:
+97.36 km
+
+Handcrafted kernel:
+17.83 km
+
+GNN learned:
+21.94 km
+
+GNN same-system pair fraction:
+28.68%
+
+Independent same-system pair fraction:
+1.50%
+
+HIGHER-ORDER GENERATION
+Sequential pairwise GNN completion:
+
+2 breaches: 100.0%
+3 breaches: 88.3%
+4 breaches: 70.4%
+5 breaches: 51.3%
+
+This motivates higher-order event-state modelling.
+
+T4000 FINANCIAL PROXY
+Independent P95:
+8,023.1 MEUR
+
+Handcrafted kernel P95:
+7,294.0 MEUR
+
+GNN learned P95:
+7,915.1 MEUR
+
+IMPORTANT LIMITATIONS
+The current LIWO catalogue does not provide sufficient simultaneous-breach
+observations for direct empirical estimation of joint breach probabilities.
+
+The multi-breach financial calculations are aggregate-loss proxies obtained
+from existing single-breach modeled damages.
+
+RESEARCH EXTENSION
+Future work should combine hydraulic/system connectivity, probabilistic
+dependence learning, higher-order event generation, hydraulic consequence
+models, uncertainty quantification, climate conditioning, and financial/
+insurability analysis.

@@ -1,0 +1,4 @@
+Generator,Mean_pair_distance_km,Median_pair_distance_km,Mean_log_damage_difference,Same_river_fraction,Same_dijkring_fraction,Same_system_fraction
+Independent,97.362695,98.544066,2.796022,0.0533,0.0326,0.015033
+Handcrafted kernel,17.833497,12.110976,1.947689,0.496233,0.428833,0.303067
+GNN learned,21.940527,15.140474,1.831013,0.433167,0.4464,0.2868

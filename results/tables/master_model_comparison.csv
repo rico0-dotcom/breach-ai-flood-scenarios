@@ -1,0 +1,7 @@
+Model,MAE,R2
+Baseline distance + system + return period,0.220625,-0.033695
+RF multi-scale density,0.187687,0.189285
+MLP multi-scale,0.214975,0.050074
+GNN basic,0.212412,0.04949
+GNN enriched,0.215577,0.06039
+GNN multi-scale,0.21499,0.061445

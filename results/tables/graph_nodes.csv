@@ -1,0 +1,611 @@
+breach_id,geometry_x,geometry_y,river,dijkring,breach_name,initial_breach_width,breach_growth_method
+1,63661,394660,Oosterschelde,Dijkring 27 - Tholen en St. Philipsland,20a_Extrabreslocatie,"10,0",automatisch
+14,153030,421657,Maas,Dijkring 39 - Alem,Alem,"-999,0", 
+25,157861,425941,Maas,Dijkring 41 - Land van Maas en Waal,Alphen,"-9999,0",vast
+185,122028,487923,Noordzeekanaal,Dijkring 44 - Kromme Rijn,Amsterdam zuid,"50,0", 
+191,194414,436878,Pannerdensch kanaal,"Dijkring 43 - Betuwe, Tieler- en Culemborgerwaard",AngerenARK,"-999,0",vast
+205,169000,427000,Maas,Dijkring 41 - Land van Maas en Waal,Appeltern,"-9999,0",vast
+212,158457,473953,Eemmeer/Nijkerkernauw,Dijkring 45 - Gelderse Vallei,Arkenheemse zeedijk,"50,0",vast
+213,119981,544866,Waddenzee,Dijkring 13 - Noord-Holland,BALGZANDDIJK_7,"10,0", 
+214,120619,544592,Waddenzee,Dijkring 13 - Noord-Holland,BALGZANDDIJK_8,"10,0", 
+220,136084,446207,Lek,Dijkring 44 - Kromme Rijn,Beatrixsluizen-A27,"-9999,0",automatisch
+381,190563,433192,Waal,"Dijkring 43 - Betuwe, Tieler- en Culemborgerwaard",BemmelARK,"-999,0",vast
+382,113363,425590,Beneden Merwede,Dijkring 16 - Alblasserwaard en Vijfheerenlanden,Beneden Merwede km 968.2 (dkr16 AW063),"10,0",automatisch
+383,110646,426437,Beneden Merwede,Dijkring 16 - Alblasserwaard en Vijfheerenlanden,Beneden Merwede km 971.2 (dkr16 AW079),"10,0",automatisch
+384,110464,426412,Beneden Merwede,Dijkring 16 - Alblasserwaard en Vijfheerenlanden,Beneden Merwede km 971.4 (dkr16 AW080),"10,0",automatisch
+385,76554,370229,Westerschelde,Dijkring 32 - Zeeuwsch Vlaanderen,BeOost - 13,"10,0", 
+386,140135,417559,Bergsche Maas,Dijkring 37 - Nederhemert,Bergsche Maas,"-999,0", 
+392,206957,504240,Overijsselse Vecht,Dijkring 53 - Salland,Berkum,"20,0",vast
+393,193550,408750,Maas,Dijkring 36 - Land van Heusden/de Maaskant,Beugen,"35,0", 
+395,14685,376278,Noordzee,Dijkring 32 - Zeeuwsch Vlaanderen,BeWest - 7,"10,0", 
+405,233849,410264,Boven Rijn,Dijkring 48 - Rijn en IJssel,Bislich2,"-999,0", 
+407,132686,483238,Markermeer,Dijkring 44 - Kromme Rijn,Bloemendalerpolder,"10,0",automatisch
+429,143150,416750,Maas,Dijkring 36 - Land van Heusden/de Maaskant,Bokhoven,"35,0", 
+430,206040,506224,Vecht,Dijkring 09 - Vollenhove,Bomhofsplas,"20,0",vast
+435,168515,590419,Waddenzee,Dijkring 06 - Friesland en Groningen,Boonweg,"-9999,0", 
+442,125776,426972,Boven Merwede,Dijkring 16 - Alblasserwaard en Vijfheerenlanden,Boven Merwede km 955.5 (dkr16 AW389),"10,0",automatisch
+443,122608,427932,Boven Merwede,Dijkring 16 - Alblasserwaard en Vijfheerenlanden,Boven Merwede km 958.5 (dkr16 AW003),"10,0",automatisch
+444,121093,426387,Boven Merwede,Dijkring 16 - Alblasserwaard en Vijfheerenlanden,Boven Merwede km 960.1 (dkr16 AW015),"10,0",automatisch
+486,135013,425876,Waal,Dijkring 38 - Bommelerwaard,Brakel,"-9999,0",vast
+487,225391,416099,Boven Rijn,Dijkring 42 - Ooij en Millingen,Bramsacker,"-999,0", 
+490,76636,435070,Calandkanaal + havens,Dijkring 19 - Rozenburg,BrittanniÃ«haven (dkr19 km 4.8),"10,0",automatisch
+491,196443,444009,IJssel,Dijkring 47 - Arnhemse- en Velpsebroek,Broekdijk,"-999,0", 
+540,189314,504010,IJssel,Dijkring 11 - IJsseldelta,Bypass Zuid,"-999,0",vast
+541,71820,401182,zoommeer/eendracht,Dijkring 27 - Tholen en St. Philipsland,C-Kering_volkerakzoommeer_bres5,"10,0",automatisch
+542,72200,404790,zoommeer/eendracht,Dijkring 27 - Tholen en St. Philipsland,C-Kering_volkerakzoommeer_bres6,"10,0",automatisch
+543,75187,436355,Calandkanaal + havens,Dijkring 19 - Rozenburg,Calandkanaal_km1020.3(dkr19 km7.0),"10,0",automatisch
+544,99890,437370,Hollandsche IJssel,Dijkring 14 - Zuid-Holland,"Capelle aan den IJssel, Schielands Hoge Zeedijk km 15.6","10,0",automatisch
+545,98186,435982,Nieuwe Maas,Dijkring 14 - Zuid-Holland,Capelle-West_Nijverheidstraat (Hmp. 51),"10,0",automatisch
+546,128600,413440,Bergsche Maas,Dijkring 35 - Donge,CapelscheUiterwaarden,"-999,0",vast
+554,155148,565535,IJsselmeer,Dijkring 06 - Friesland en Groningen,Cornwerd,"-999,0", 
+555,210750,457150,IJssel,Dijkring 52 - Oost Veluwe,Cortenoever,"-9999,0",vast
+556,143061,440918,Lek,"Dijkring 43 - Betuwe, Tieler- en Culemborgerwaard",Culemborg,"-999,0",vast
+557,214793,502318,Vecht,Dijkring 09 - Vollenhove,Dalfsen,"20,0",vast
+601,218729,423599,Boven Rijn,Dijkring 48 - Rijn en IJssel,Deichstation,"-999,0", 
+602,201750,486450,IJssel,Dijkring 52 - Oost Veluwe,DeNijenstee,"-9999,0",vast
+603,208232,473542,IJssel,Dijkring 53 - Salland,Deventer,"20,0",vast
+604,205456,477708,IJssel,Dijkring 53 - Salland,Deventer Noord,"20,0",vast
+605,170150,425750,Maas,Dijkring 36 - Land van Heusden/de Maaskant,Dieden,"35,0", 
+637,208488,602607,Waddenzee,Dijkring 06 - Friesland en Groningen,Dijkringtraject 1 Lauwersmeer,"10,0",automatisch
+638,267576,589130,Waddenzee,Dijkring 06 - Friesland en Groningen,Dijkringtraject 10 Woldendorp,"10,0",automatisch
+639,271658,584637,Waddenzee,Dijkring 06 - Friesland en Groningen,Dijkringtraject 11 Carel Coenraadpolder,"10,0",automatisch
+640,275090,584112,Waddenzee,Dijkring 06 - Friesland en Groningen,Dijkringtraject 12 West van Nieuwe Statenzijl,"10,0",automatisch
+641,220012,602463,Waddenzee,Dijkring 06 - Friesland en Groningen,Dijkringtraject 2 Kloosterburen,"10,0",automatisch
+642,227544,604508,Waddenzee,Dijkring 06 - Friesland en Groningen,Dijkringtraject 3 Homanpolder,"10,0",automatisch
+643,232903,605280,Waddenzee,Dijkring 06 - Friesland en Groningen,Dijkringtraject 4 Warffum,"10,0",automatisch
+644,238647,607588,Waddenzee,Dijkring 06 - Friesland en Groningen,Dijkringtraject 5 Lauwerpolder,"10,0",automatisch
+645,245110,608890,Waddenzee,Dijkring 06 - Friesland en Groningen,Dijkringtraject 6 Westelijk van Eemshaven,"10,0",automatisch
+646,250993,606915,Waddenzee,Dijkring 06 - Friesland en Groningen,Dijkringtraject 7 Oudeschip,"10,0",automatisch
+647,254944,598668,Waddenzee,Dijkring 06 - Friesland en Groningen,Dijkringtraject 8 Holwierde,"10,0",automatisch
+648,263362,592072,Waddenzee,Dijkring 06 - Friesland en Groningen,Dijkringtraject 9 Borgsweer,"10,0",automatisch
+649,156583,572206,Waddenzee,Dijkring 06 - Friesland en Groningen,Dijksterburen,"-9999,0", 
+654,73576,398810,Schelde - Rijnkanaal,Dijkring 27 - Tholen en St. Philipsland,dkr27_Bres4,"10,0",automatisch
+690,207029,448217,IJssel,Dijkring 49 - IJsselland,Doesburg-noord,"-999,0",vast
+691,206613,446706,IJssel,Dijkring 49 - IJsselland,Doesburg-zuid,"-999,0",vast
+692,134150,414850,Bergsche Maas,Dijkring 36 - Land van Heusden/de Maaskant,Doeveren,"12,0", 
+693,118689,414136,Bergsche Maas,Dijkring 35 - Donge,Dombosch,"-999,0",vast
+695,117554,411704,Donge,Dijkring 35 - Donge,Donge,"-999,0",vast
+697,102394,421226,Dordtsche Kil,Dijkring 21 - Hoekse Waard,"Dordtsche Kil km 982,2 (Dkr21 km 19,0)","10,0",automatisch
+698,102718,421030,Dordtsche Kil,Dijkring 22 - Eiland van Dordrecht,"Dordtsche Kil km 982,3 (Dkr22 km 27,8)","10,0",automatisch
+699,102320,419847,Dordtsche Kil,Dijkring 21 - Hoekse Waard,"Dordtsche Kil km 983,5 (Dkr21 km 20,4)","10,0",automatisch
+700,102627,419642,Dordtsche Kil,Dijkring 22 - Eiland van Dordrecht,"Dordtsche Kil km 983,7 (Dkr22 km 26,4)","10,0",automatisch
+701,102847,418670,Dordtsche Kil,Dijkring 22 - Eiland van Dordrecht,"Dordtsche Kil km 984,8 (Dkr22 km 25,4)","10,0",automatisch
+702,218400,425100,Boven Rijn,Dijkring 48 - Rijn en IJssel,Dornick,"-999,0", 
+740,158650,430600,Waal,Dijkring 41 - Land van Maas en Waal,Dreumel,"-9999,0",vast
+741,114419,413847,Amer,Dijkring 34 - West-Brabant,Drimmelen Oost,"12,0", 
+742,112936,414328,Amer,Dijkring 34 - West-Brabant,Drimmelen West,"12,0", 
+743,134390,412760,Drongelens Kanaal,Dijkring 35 - Donge,Drongelens kanaal (doorbraak vanuit C-kering),"-999,0",vast
+744,176554,511085,Ketelmeer/Vossemeer,Dijkring 08 - Flevoland,Dronten,"-999,0", 
+745,168450,433750,Waal,Dijkring 41 - Land van Maas en Waal,Druten,"-9999,0",vast
+746,112850,558175,Waddenzee,Dijkring 05 - Texel,DUINEN TEXEL_2,"10,0", 
+747,112325,567825,Noordzee,Dijkring 05 - Texel,DUINEN TEXEL_21,"10,0", 
+748,116865,571803,Noordzee,Dijkring 05 - Texel,DUINEN TEXEL_28,"10,0", 
+750,128242,487956,Markermeer,Dijkring 13 - Noord-Holland,DURGERDAMMERDIJK_0.5,"10,0", 
+751,123242,415020,Bergsche Maas,Dijkring 24 - Land van Altena,Dussen,"10,0",vast
+762,160365,443549,Nederrijn,"Dijkring 43 - Betuwe, Tieler- en Culemborgerwaard",EckEnWielARK,"-999,0",vast
+763,211738,463645,IJssel,Dijkring 50 - Zutphen,Eefdensebrug-zuid,"-999,0",vast
+766,149869,472674,Eem,Dijkring 45 - Gelderse Vallei,Eemdijk,"50,0",vast
+767,87400,432300,Nieuwe Maas,Dijkring 17 - IJsselmonde,"Eemhaven (dkr17 km 27,2)","10,0",automatisch
+770,276511,584425,Noordzee / Waddenzee,Dijkring 06 - Friesland en Groningen,Eems,"-999,0",automatisch
+847,120940,574586,Waddenzee,Dijkring 05 - Texel,EIJERLANDSE ZEEDIJK_1,"10,0", 
+848,188647,442296,Nederrijn,"Dijkring 43 - Betuwe, Tieler- en Culemborgerwaard",EldenARK,"-999,0",vast
+910,208654,428838,Boven Rijn,Dijkring 48 - Rijn en IJssel,Emmerich,"-999,0", 
+911,211878,426598,Boven Rijn,Dijkring 42 - Ooij en Millingen,EmmericherEyerland,"-999,0", 
+912,219769,420435,Boven Rijn,Dijkring 42 - Ooij en Millingen,Entenbusch,"-999,0", 
+934,156542,560342,IJsselmeer,Dijkring 06 - Friesland en Groningen,Gaast,"-999,0", 
+935,191725,510525,IJssel,Dijkring 10 - Mastenbroek,GDGS,"20,0",vast
+940,116729,413500,Bergsche Maas,Dijkring 34a - Geertruidenberg,Geertruidenberg,"-999,0",automatisch
+961,71650,441400,Nieuwe Waterweg,Dijkring 14 - Zuid-Holland,Gemaal_Westland,"10,0",automatisch
+962,71495,441425,Nieuwe Maas,Dijkring 14 - Zuid-Holland,Gemaal_Westland (dp D188),"10,0",automatisch
+963,207795,445963,IJssel,Dijkring 48 - Rijn en IJssel,gemaalBevermeer,"-9999,0",vast
+964,204500,476500,IJssel,Dijkring 52 - Oost Veluwe,GemaalTerwolde,"-9999,0",vast
+965,134575,415900,Bergsche Maas,Dijkring 24 - Land van Altena,Genderen,"10,0",vast
+966,199466,515958,Zwarte Water,Dijkring 10 - Mastenbroek,Genemuiden,"20,0",vast
+974,153100,418450,Maas,Dijkring 36 - Land van Heusden/de Maaskant,Gewande,"12,0", 
+975,200949,444865,IJssel,Dijkring 48 - Rijn en IJssel,Giesbeek,"-9999,0",vast
+976,194925,512425,Zwarte Meer,Dijkring 10 - Mastenbroek,GOGS,"20,0",vast
+978,147362,481407,Markermeer/Eemmeer/Gooimeer,Dijkring 08 - Flevoland,GOOIMEERDIJK_15.5,"-999,0", 
+979,210108,469779,IJssel,Dijkring 51 - Gorssel,Gorssel-noord,"-9999,0",vast
+980,109300,446735,Hollandsche IJssel,Dijkring 14 - Zuid-Holland,Gouda oost,"0,0",automatisch
+981,107600,445690,Hollandsche IJssel,Dijkring 14 - Zuid-Holland,Gouda west,"10,0",automatisch
+982,107020,445650,Hollandsche IJssel,Dijkring 14 - Zuid-Holland,"Gouda, Sluisdijk km 0,7","10,0",automatisch
+983,48652,417713,Grevelingen,Dijkring 26 - Schouwen Duivenland,"GR 1,5 KM","10,0",automatisch
+985,57424,415345,Grevelingen,Dijkring 26 - Schouwen Duivenland,GR 13 KM,"10,0",automatisch
+986,59322,413944,Grevelingen,Dijkring 26 - Schouwen Duivenland,"GR 15,5 KM","10,0",automatisch
+987,61691,411448,Grevelingen,Dijkring 26 - Schouwen Duivenland,"GR 19,5 KM","10,0",automatisch
+988,51872,417867,Grevelingen,Dijkring 26 - Schouwen Duivenland,GR 5 KM,"10,0",automatisch
+990,204189,431766,Boven Rijn,Dijkring 48 - Rijn en IJssel,Gravenwaardsedam,"-9999,0",vast
+991,172000,440300,Nederrijn,Dijkring 45 - Gelderse Vallei,Grebbedijk,"10,0",automatisch
+992,70299,411996,Grevelingenmeer,Dijkring 25 - Goeree-Overflakkee,Grevelingen (dkr25 km 46.6),"10,0",automatisch
+993,65208,414116,Grevelingenmeer,Dijkring 25 - Goeree-Overflakkee,"Grevelingenmeer (dkr25 km 52,4)","10,0",automatisch
+1067,143036,424846,Waal,"Dijkring 43 - Betuwe, Tieler- en Culemborgerwaard",Haaften,"-999,0",vast
+1068,111640,488760,Noordzeekanaal,Dijkring 44 - Kromme Rijn,Halfweg,"50,0", 
+1081,87702,415294,Haringvliet,Dijkring 21 - Hoekse Waard,"Haringvliet km 1000 (Dkr21 km 42,0)","10,0",automatisch
+1082,86617,415804,Haringvliet,Dijkring 21 - Hoekse Waard,"Haringvliet km 1001 (Dkr21 km 43,2)","10,0",automatisch
+1083,80639,413878,Haringvliet,Dijkring 25 - Goeree-Overflakkee,"Haringvliet km 1006 (dkr25 km 25,0)","10,0",automatisch
+1084,79412,414856,Haringvliet,Dijkring 25 - Goeree-Overflakkee,"Haringvliet km 1007,8 (dkr25 km 23,4)","10,0",automatisch
+1085,77369,415690,Haringvliet,Dijkring 25 - Goeree-Overflakkee,"Haringvliet km 1009,2 (dkr25 km 21,0)","10,0",automatisch
+1086,76502,416802,Haringvliet,Dijkring 25 - Goeree-Overflakkee,"Haringvliet km 1010,2 (dkr25 km 19,4)","10,0",automatisch
+1087,75726,418161,Haringvliet,Dijkring 25 - Goeree-Overflakkee,"Haringvliet km 1011,6 (dkr25 km 17,8)","10,0",automatisch
+1088,73178,420378,Haringvliet,Dijkring 25 - Goeree-Overflakkee,"Haringvliet km 1015,6 (dkr25 km 14,4)","10,0",automatisch
+1089,72149,421070,Haringvliet,Dijkring 25 - Goeree-Overflakkee,"Haringvliet km 1017,5 (dkr25 km 12,8)","10,0",automatisch
+1090,73718,424751,Haringvliet,Dijkring 20 - Voorne-Putten,"Haringvliet km 1018 (dkr20 km 11,0)","10,0",automatisch
+1091,70233,421981,Haringvliet,Dijkring 25 - Goeree-Overflakkee,"Haringvliet km 1020 (dkr25 km 10,4)","10,0",automatisch
+1092,70975,425974,Haringvliet,Dijkring 20 - Voorne-Putten,"Haringvliet km 1021,6 (dkr20 km 7,4)","10,0",automatisch
+1093,70415,426767,Haringvliet,Dijkring 20 - Voorne-Putten,"Haringvliet km 1022,5 (dkr20 km 6,3)","10,0",automatisch
+1094,68577,426780,Haringvliet,Dijkring 20 - Voorne-Putten,"Haringvliet km 1024 (dkr20 km 4,35 schutsluis)","10,0",vast
+1095,65393,424857,Haringvliet,Dijkring 25 - Goeree-Overflakkee,"Haringvliet km 1026 (dkr25 km 4,6)","10,0",automatisch
+1096,66584,427601,Haringvliet,Dijkring 20 - Voorne-Putten,"Haringvliet km 1026,5 (dkr20 km 0,8)","10,0",automatisch
+1097,88594,414875,Haringvliet,Dijkring 21 - Hoekse Waard,"Haringvliet km 999 (Dkr21 km 40,8)","10,0",automatisch
+1098,68530,439051,Hartelkanaal + havens,Dijkring 20 - Voorne-Putten,"Hartelkanaal km 17,3 (dkr20 km 49,6)","10,0",automatisch
+1099,80124,431189,Hartelkanaal + havens,Dijkring 20 - Voorne-Putten,"Hartelkanaal km 2 (dkr20 km 34,4)","10,0",automatisch
+1100,77930,431231,Hartelkanaal + havens,Dijkring 20 - Voorne-Putten,"Hartelkanaal km 4,3 (dkr20 km 36,6)","10,0",automatisch
+1101,76308,431980,Hartelkanaal + havens,Dijkring 20 - Voorne-Putten,"Hartelkanaal km 6 (dkr20 km 38,4)","10,0",automatisch
+1102,203011,512882,Zwarte Water,Dijkring 09 - Vollenhove,Hasselt,"20,0",vast
+1103,202200,497794,IJssel,Dijkring 52 - Oost Veluwe,Hattem,"-999,0",vast
+1104,113907,552420,Noordzee,Dijkring 13 - Noord-Holland,HAVENDIJK_0.5,"10,0", 
+1105,192497,442713,Nederrijn,Dijkring 47 - Arnhemse- en Velpsebroek,Havenweg,"-999,0", 
+1108,110845,552837,Noordzee,Dijkring 13 - Noord-Holland,HELDERSE ZEEWERING_2,"10,0", 
+1109,112810,553179,Noordzee,Dijkring 13 - Noord-Holland,HELDERSE ZEEWERING_4,"10,0", 
+1110,204003,433096,Boven Rijn,Dijkring 48 - Rijn en IJssel,Herwen,"-9999,0",vast
+1111,207746,504599,Vecht,Dijkring 09 - Vollenhove,Hessenpoort,"20,0",vast
+1113,180500,441700,Nederrijn,"Dijkring 43 - Betuwe, Tieler- en Culemborgerwaard",Heteren,"-999,0",vast
+1114,185500,419350,Maas,Dijkring 41 - Land van Maas en Waal,Heumen,"-9999,0",vast
+1115,140050,416950,Bergsche Maas,Dijkring 36 - Land van Heusden/de Maaskant,Heusden,"12,0", 
+1125,156233,549577,IJsselmeer,Dijkring 06 - Friesland en Groningen,Hindelopen,"-999,0",automatisch
+1127,69650,443025,Noordzee,Dijkring 14 - Zuid-Holland,HoekvanHolland (dp D214),"10,0",automatisch
+1128,150796,418466,Maas,Dijkring 38 - Bommelerwaard,Hoenzadriel,"-9999,0",vast
+1168,104380,417540,Hollandsch Diep,Dijkring 22 - Eiland van Dordrecht,"Hollandsch Diep km 980 (Dkr22 km 19,0)","10,0",automatisch
+1169,101911,415336,Hollandsch Diep,Dijkring 21 - Hoekse Waard,"Hollandsch Diep km 984 (Dkr21 km 25,2)","10,0",automatisch
+1170,99362,414294,Hollandsch Diep,Dijkring 21 - Hoekse Waard,"Hollandsch Diep km 986 (Dkr21 km 28,2)","10,0",automatisch
+1171,97823,414326,Hollandsch Diep,Dijkring 21 - Hoekse Waard,"Hollandsch Diep km 988 (Dkr21 km 29,8)","10,0",automatisch
+1172,96422,413743,Hollandsch Diep,Dijkring 21 - Hoekse Waard,"Hollandsch Diep km 989 (Dkr21 km 31,0)","10,0",automatisch
+1173,93943,413637,Hollandsch Diep,Dijkring 21 - Hoekse Waard,"Hollandsch Diep km 993 (Dkr21 km 34,0)","10,0",automatisch
+1174,90544,414888,Hollandsch Diep,Dijkring 21 - Hoekse Waard,"Hollandsch Diep km 997 (Dkr21 km 38,6)","10,0",automatisch
+1175,104277,440776,Hollandsche IJssel,Dijkring 15 - Lopiker- en Krimpenerwaard,Hollandsche IJssel km 10.9 (Dkr15_km 32.2),"10,0",automatisch
+1176,103521,439641,Hollandsche IJssel,Dijkring 15 - Lopiker- en Krimpenerwaard,Hollandsche IJssel km 12.3 (Dkr15_km 29.6),"10,0",automatisch
+1177,101807,437621,Hollandsche IJssel,Dijkring 15 - Lopiker- en Krimpenerwaard,Hollandsche IJssel km 15.2 (Dkr15_km 26.5),"10,0",automatisch
+1178,100889,437712,Hollandsche IJssel,Dijkring 15 - Lopiker- en Krimpenerwaard,Hollandsche IJssel km 16 (Dkr15_km 25.5),"10,0",automatisch
+1179,105898,444226,Hollandsche IJssel,Dijkring 15 - Lopiker- en Krimpenerwaard,Hollandsche IJssel km 5.3 (Dkr15_km 37.4),"0,0",automatisch
+1180,104710,443268,Hollandsche IJssel,Dijkring 15 - Lopiker- en Krimpenerwaard,Hollandsche IJssel km 7 (Dkr15_km 35.6),"10,0",automatisch
+1181,104495,442698,Hollandsche IJssel,Dijkring 15 - Lopiker- en Krimpenerwaard,Hollandsche IJssel km 7.5 (Dkr15_km 35.0),"10,0",automatisch
+1182,103095,442476,Hollandsche IJssel,Dijkring 15 - Lopiker- en Krimpenerwaard,Hollandsche IJssel km 9 (Dkr15_km 33.3),"0,0",automatisch
+1183,103381,442937,Hollandsche IJssel,Dijkring 14 - Zuid-Holland,"Hollandsche IJssel, Nieuwerkerk Noord","10,0",automatisch
+1184,103349,439732,Hollandsche IJssel,Dijkring 14 - Zuid-Holland,"Hollandsche IJssel, Polder Esse","10,0",automatisch
+1185,106424,445258,Hollandsche IJssel,Dijkring 14 - Zuid-Holland,"Hollandsche IJssel, Zuidplaspolder","5,0",automatisch
+1188,172016,604729,Waddenzee,Dijkring 02 - Ameland,Hollum,"10,0",automatisch
+1189,188138,599340,Waddenzee,Dijkring 06 - Friesland en Groningen,Holwerd,"-9999,0", 
+1207,105117,529654,Noordzee,Dijkring 13 - Noord-Holland,HONDSBOSSCHE ZEEWERING_3,"10,0", 
+1215,205988,474312,IJssel,Dijkring 52 - Oost Veluwe,Hoven Noord,"-9999,0",vast
+1216,206912,472912,IJssel,Dijkring 52 - Oost Veluwe,Hoven Zuid,"-9999,0",vast
+1218,148415,423805,Waal,Dijkring 38 - Bommelerwaard,Hurwenen,"-9999,0",vast
+1229,228007,414091,Boven Rijn,Dijkring 48 - Rijn en IJssel,HW93_Haffen-Mehr,"-999,0", 
+1230,98730,497900,Noordzee,Dijkring 44 - Kromme Rijn,IJmuiden,"50,0", 
+1245,120123,562910,Waddenzee,Dijkring 05 - Texel,IJSDIJK_1.5,"10,0", 
+1246,191099,508501,IJssel,Dijkring 10 - Mastenbroek,IJsselmuiden,"20,0",vast
+1247,165241,435268,Waal,"Dijkring 43 - Betuwe, Tieler- en Culemborgerwaard",IJzendoornARK,"-999,0",vast
+1250,120607,576291,Waddenzee,Dijkring 05 - Texel,INLAAGDIJK VAN 1938_0,"10,0", 
+1269,206791,609827,Waddenzee,Dijkring 01 - Schiermonnikoog,Jachthaven,"10,0",automatisch
+1283,189140,509310,IJssel,Dijkring 11 - IJsseldelta,Kampen Noord,"-999,0",
+1284,191600,506700,IJssel,Dijkring 11 - IJsseldelta,Kampen_Zuid,"-999,0",
+1519,196990,436320,Pannerdensch kanaal,Dijkring 48 - Rijn en IJssel,Kandiagemaal,"-9999,0",vast
+1522,156790,443600,Nederrijn,Dijkring 44 - Kromme Rijn,Kasteel Amerongen,"-9999,0",automatisch
+1523,188550,418000,Maas,Dijkring 36 - Land van Heusden/de Maaskant,Katwijk,"12,0", 
+1524,87799,469455,Noordzee,Dijkring 14 - Zuid-Holland,KatwijkaanZee,"50,0",automatisch
+1525,132701,499273,Markermeer,Dijkring 13 - Noord-Holland,KATWOUDERZEEDIJK_1,"10,0", 
+1526,175850,418950,Maas,Dijkring 36 - Land van Heusden/de Maaskant,Keent,"12,0", 
+1528,121418,414009,Bergsche Maas,Dijkring 35 - Donge,Keizersveer,"-999,0",vast
+1529,196950,430150,Waal,Dijkring 42 - Ooij en Millingen,Kekerdom,"-9999,0",vast
+1546,166994,440335,Nederrijn,"Dijkring 43 - Betuwe, Tieler- en Culemborgerwaard",KesterenARK,"-999,0",vast
+1547,74950,453300,Noordzee,Dijkring 14 - Zuid-Holland,Kijkduin,"10,0",automatisch
+1548,147434,598406,Waddenzee,Dijkring 03 - Terschelling,Kinnum,"10,0",automatisch
+1549,152050,599650,Waddenzee,Dijkring 03 - Terschelling,Kinnum en Hoorn,"10,0",automatisch
+1550,94153,410469,Hollandsch Diep,Dijkring 34 - West-Brabant,Klundert,"12,0", 
+1568,114615,550476,Waddenzee,Dijkring 13 - Noord-Holland,KOEGRASZEEDIJK (1E WK)_0.5,"10,0", 
+1600,184684,418305,Maas,Dijkring 36 - Land van Heusden/de Maaskant,Kraaienbergseplas,"12,0", 
+1601,72399,410954,Kramer,Dijkring 25 - Goeree-Overflakkee,"Krammer (dkr25 km 43,8)","10,0",automatisch
+1629,184821,607503,Waddenzee,Dijkring 02 - Ameland,kwelder,"10,0",automatisch
+1630,212087,445604,IJssel,Dijkring 49 - IJsselland,Laag-Keppel,"-999,0",vast
+1637,108535,414551,Amer,Dijkring 34 - West-Brabant,Lage Zwaluwe,"12,0", 
+1642,205060,506478,Overijsselse Vecht,Dijkring 53 - Salland,Langenholte,"20,0",vast
+1675,140058,441866,Lek,Dijkring 16 - Alblasserwaard en Vijfheerenlanden,Lek km 943 (dkr16 VY095),"10,0",automatisch
+1676,135677,445597,Lek,Dijkring 16 - Alblasserwaard en Vijfheerenlanden,Lek km 950 (dkr16 VY062),"10,0",automatisch
+1677,135308,446440,Lek,Dijkring 15 - Lopiker- en Krimpenerwaard,"Lek km 950,6 (Nieuwegein)","10,0",automatisch
+1678,133038,445182,Lek,Dijkring 15 - Lopiker- en Krimpenerwaard,"Lek km 952,5 (IJsselstein)","10,0",automatisch
+1679,132518,443436,Lek,Dijkring 16 - Alblasserwaard en Vijfheerenlanden,Lek km 954 (dkr16 VY040),"10,0",automatisch
+1680,127082,442600,Lek,Dijkring 15 - Lopiker- en Krimpenerwaard,"Lek km 960,3 (Jaarsveld)","10,0",automatisch
+1681,126175,441184,Lek,Dijkring 16 - Alblasserwaard en Vijfheerenlanden,Lek km 962 (dkr16 AW296),"10,0",automatisch
+1682,123972,441805,Lek,Dijkring 15 - Lopiker- en Krimpenerwaard,Lek km 965 (Lopik),"10,0",automatisch
+1683,116594,439424,Lek,Dijkring 15 - Lopiker- en Krimpenerwaard,Lek km 973 (Schoonhoven),"10,0",automatisch
+1684,113759,436709,Lek,Dijkring 16 - Alblasserwaard en Vijfheerenlanden,Lek km 977 (dkr16 AW217),"10,0",automatisch
+1685,107151,434504,Lek,Dijkring 15 - Lopiker- en Krimpenerwaard,"Lek km 984,3 (Lekkerkerk)","10,0",automatisch
+1686,105945,433621,Lek,Dijkring 16 - Alblasserwaard en Vijfheerenlanden,Lek km 985.5 (dkr16 AW171),"10,0",automatisch
+1687,161546,507196,IJsselmeer,Dijkring 08 - Flevoland,Lelystad,"-999,0", 
+1688,174479,540775,IJsselmeer,Dijkring 06 - Friesland en Groningen,Lemmer PM Sluis,"-999,0", 
+1715,126691,426657,Boven Merwede,Dijkring 16 - Alblasserwaard en Vijfheerenlanden,Lingesluis (dkr16),"4,5","3,0"
+1719,156950,424600,Maas,Dijkring 36 - Land van Heusden/de Maaskant,Lith,"12,0", 
+1802,195635,438101,Pannerdensch kanaal,Dijkring 48 - Rijn en IJssel,Loo,"-9999,0",vast
+1806,156104,426008,Maas,Dijkring 40 - Heerewaarden,Maas km 205,"-999,0", 
+1807,154918,424372,Maas,Dijkring 40 - Heerewaarden,Maas km 207,"-999,0", 
+1809,92362,434305,Nieuwe Maas,Dijkring 17 - IJsselmonde,"Maashaven (dkr17 km 34,6)","10,0",automatisch
+1810,93650,434950,Nieuwe Maas,Dijkring 17 - IJsselmonde,"Maashaven (dkr17 km 36,1)","10,0",automatisch
+1811,73821,439701,Nieuwe Maas,Dijkring 14 - Zuid-Holland,Maasluis_Oranjeplassen (dp D159),"10,0",automatisch
+1812,147579,416604,Maas,Dijkring 36 - Land van Heusden/de Maaskant,Maaspoort,"-999,0",vast
+1813,76655,437200,Scheur,Dijkring 14 - Zuid-Holland,Maassluis_keersluis,"10,0",automatisch
+1815,85896,434270,Nieuwe Maas,Dijkring 18 - Pernis,Madroelhaven (Dkr18 km 0.4),"10,0",automatisch
+1816,156021,563085,IJsselmeer,Dijkring 06 - Friesland en Groningen,Makkum,"-9999,0", 
+1817,191889,442310,Nederrijn,"Dijkring 43 - Betuwe, Tieler- en Culemborgerwaard",MalburgenARK,"-999,0",vast
+1819,136279,497286,Markermeer,Dijkring 13b - Marken,Marken_Noordoost_750,"10,0", 
+1820,135561,496784,Markermeer,Dijkring 13b - Marken,Marken_Noordwest_1250,"10,0", 
+1821,136452,496409,Markermeer,Dijkring 13b - Marken,Marken_Zuid_1750,"10,0", 
+1840,209794,503841,Overijsselse Vecht,Dijkring 53 - Salland,Marshoek,"20,0",vast
+1854,210307,464549,IJssel,Dijkring 51 - Gorssel,Mettray,"-9999,0",vast
+1859,104836,414104,Hollandsch Diep,Dijkring 34 - West-Brabant,Moerdijk Oost,"12,0", 
+1860,102572,413690,Hollandsch Diep,Dijkring 34 - West-Brabant,Moerdijk West,"12,0", 
+1862,187650,419450,Maas,Dijkring 41 - Land van Maas en Waal,Molenhoek,"-9999,0",vast
+1870,155957,546663,IJsselmeer,Dijkring 06 - Friesland en Groningen,Molkwerum,"-999,0", 
+1871,134928,483356,Markermeer,Dijkring 44 - Kromme Rijn,Muiden,"10,0",automatisch
+1872,192639,506193,IJssel,Dijkring 10 - Mastenbroek,N50 - Zuid Wilsum,"20,0",vast
+1873,211982,503221,Vecht,Dijkring 09 - Vollenhove,Na Dalfsen,"20,0",vast
+1926,180630,606065,Waddenzee,Dijkring 02 - Ameland,Nes,"10,0",automatisch
+1927,223750,418197,Boven Rijn,Dijkring 42 - Ooij en Millingen,NiedermÃ¶rmter,"-999,0", 
+1931,100050,434150,Nieuwe Maas,Dijkring 17 - IJsselmonde,"Nieuwe Maas km 991 (dkr17 km 45,0)","10,0",automatisch
+1932,99728,434420,Nieuwe Maas,Dijkring 17 - IJsselmonde,"Nieuwe Maas km 991,6 (dkr17 km 44,2)","10,0",automatisch
+1933,100655,435567,Nieuwe Maas,Dijkring 15 - Lopiker- en Krimpenerwaard,Nieuwe Maas km 992 (Krimpen aan den IJssel),"10,0",automatisch
+1934,97450,435150,Nieuwe Maas,Dijkring 17 - IJsselmonde,"Nieuwe Maas km 994,7 (dkr17 km 41,8)","10,0",automatisch
+1935,97215,435056,Nieuwe Maas,Dijkring 17 - IJsselmonde,"Nieuwe Maas km 995 (dkr17 km 41,2)","10,0",automatisch
+1936,96450,434450,Nieuwe Maas,Dijkring 17 - IJsselmonde,"Nieuwe Maas km 995,6 (dkr17 km 40,3)","10,0",automatisch
+1937,111430,422260,Nieuwe Merwede,Dijkring 22 - Eiland van Dordrecht,"Nieuwe Merwede 971 (Dkr22 km 8,0)","10,0",automatisch
+1938,110021,419592,Nieuwe Merwede,Dijkring 22 - Eiland van Dordrecht,"Nieuwe Merwede 974 (Dkr22 km 11,2)","10,0",automatisch
+1939,106872,418382,Nieuwe Merwede,Dijkring 22 - Eiland van Dordrecht,"Nieuwe Merwede km 978 (Dkr22 km 15,2)","10,0",automatisch
+1940,105442,418723,Nieuwe Merwede,Dijkring 22 - Eiland van Dordrecht,"Nieuwe Merwede km 979 (Dkr22 km 17,4)","10,0",automatisch
+1943,130918,497767,Markermeer,Dijkring 13 - Noord-Holland,NIEUWENDAM_0,"10,0", 
+1944,76111,436462,Nieuwe Waterweg,Dijkring 19 - Rozenburg,NieuweWaterweg_km1018.8(dkr19 km1.2),"10,0",automatisch
+1947,186850,429150,Waal,Dijkring 41 - Land van Maas en Waal,NijmegenHaven,"-999,0",vast
+1949,105840,427587,Noord,Dijkring 16 - Alblasserwaard en Vijfheerenlanden,Noord km 977.7 (dkr16 AW112),"10,0",automatisch
+1950,104850,427750,Noord,Dijkring 17 - IJsselmonde,"Noord km 978 (dkr17 km 53,9)","10,0",automatisch
+1951,103938,429872,Noord,Dijkring 17 - IJsselmonde,"Noord km 980,5 (dkr17 km 51,35)","10,0",automatisch
+1952,103339,431719,Noord,Dijkring 16 - Alblasserwaard en Vijfheerenlanden,Noord km 982.7 (dkr16 AW144),"10,0",automatisch
+1953,102450,432050,Noord,Dijkring 17 - IJsselmonde,"Noord km 983,4 (dkr17 km 48,3)","10,0",automatisch
+1955,143158,529722,IJsselmeer,Dijkring 13 - Noord-Holland,NOORDERDIJK VAN DRECHTERLAND (OOST)_0,"10,0", 
+2161,91134,475188,Noordzee,Dijkring 14 - Zuid-Holland,Noordwijk,"10,0",automatisch
+2162,133770,591158,Noordzee,Dijkring 04 - Vlieland,noordzee,"10,0",automatisch
+2164,62359,432799,Noordzee,Dijkring 20 - Voorne-Putten,Noordzee (dkr20 strandpaal 12),"10,0",automatisch
+2165,63973,430264,Noordzee,Dijkring 20 - Voorne-Putten,Noordzee (dkr20 strandpaal 15),"10,0",automatisch
+2166,52400,427300,Noordzee,Dijkring 25 - Goeree-Overflakkee,"Noordzee (dkr25 strandpaal 11,75)","10,0",automatisch
+2167,52035,427051,Noordzee,Dijkring 25 - Goeree-Overflakkee,"Noordzee (dkr25 strandpaal 12,75)","10,0",automatisch
+2168,61000,427500,Noordzee,Dijkring 25 - Goeree-Overflakkee,"Noordzee (dkr25 strandpaal 3,00)","10,0",automatisch
+2169,58300,428400,Noordzee,Dijkring 25 - Goeree-Overflakkee,"Noordzee (dkr25 strandpaal 6,00)","10,0",automatisch
+2171,199118,515780,Zwarte Water,Dijkring 10 - Mastenbroek,NW Genemuiden,"20,0", 
+2173,183160,608440,Noordzee,Dijkring 02 - Ameland,nz oost,"10,0",automatisch
+2174,173640,608381,Noordzee,Dijkring 02 - Ameland,nz west,"10,0",automatisch
+2180,38404,410482,Noordzee,Dijkring 26 - Schouwen Duivenland,NzSch - dp 160,"10,0", 
+2181,38765,410196,Noordzee,Dijkring 26 - Schouwen Duivenland,NzSch - dp 165,"10,0", 
+2182,46406,417971,Noordzee,Dijkring 26 - Schouwen Duivenland,NzSch - dp 5,"10,0", 
+2183,41103,417649,Noordzee,Dijkring 26 - Schouwen Duivenland,NzSch - dp 60,"10,0", 
+2184,36220,402215,Noordzee,Dijkring 28 - Noord-Beveland,NzWal - dp 10,"10,0", 
+2185,26892,400921,Noordzee,Dijkring 29 - Walcheren,NzWal - dp 110,"10,0", 
+2186,25727,400273,Noordzee,Dijkring 29 - Walcheren,NzWal - dp 125,"10,0", 
+2187,23967,399273,Noordzee,Dijkring 29 - Walcheren,NzWal - dp 145,"10,0",automatisch
+2188,21942,397889,Noordzee,Dijkring 29 - Walcheren,NzWal - dp 170,"10,0", 
+2189,19620,396290,Noordzee,Dijkring 29 - Walcheren,NzWal - dp 195,"10,0", 
+2190,20491,393732,Noordzee,Dijkring 29 - Walcheren,NzWal - dp 230,"10,0", 
+2191,23273,391516,Noordzee,Dijkring 29 - Walcheren,NzWal - dp 265,"10,0", 
+2192,24836,389183,Noordzee,Dijkring 29 - Walcheren,NzWal - dp 295,"10,0", 
+2193,26915,386595,Noordzee,Dijkring 29 - Walcheren,NzWal - dp 330,"10,0", 
+2194,28545,385448,Noordzee,Dijkring 29 - Walcheren,NzWal - dp 350,"10,0",automatisch
+2195,29365,385080,Noordzee,Dijkring 29 - Walcheren,NzWal - dp 365,"10,0", 
+2196,32754,401236,Noordzee,Dijkring 29 - Walcheren,NzWal - dp 45,"10,0", 
+2197,32419,401552,Noordzee,Dijkring 29 - Walcheren,NzWal - dp 50,"10,0",automatisch
+2198,164000,425100,Maas,Dijkring 36 - Land van Heusden/de Maaskant,Oijen,"35,0", 
+2208,204219,484744,IJssel,Dijkring 53 - Salland,Olst,"20,0",vast
+2252,194183,429660,Waal,Dijkring 42 - Ooij en Millingen,Ooij,"-999,0", 
+2265,155400,473622,Nijkerkernauw,Dijkring 45 - Gelderse Vallei,Oostdijk,"50,0",vast
+2266,121808,565555,Waddenzee,Dijkring 05 - Texel,OOSTDIJK_2.5,"10,0", 
+2272,147946,527670,IJsselmeer,Dijkring 13 - Noord-Holland,OOSTERDIJK VAN DRECHTERLAND_0.5,"10,0", 
+2273,185784,431634,Waal,"Dijkring 43 - Betuwe, Tieler- en Culemborgerwaard",OosterhoutARK,"-999,0", 
+2283,157148,501728,Markermeer/Eemmeer/Gooimeer,Dijkring 08 - Flevoland,OOSTVAARDERSDIJK_03.4,"-999,0", 
+2284,146914,494644,Markermeer/Eemmeer/Gooimeer,Dijkring 08 - Flevoland,OOSTVAARDERSDIJK_16.0,"-999,0", 
+2296,67128,393546,Oosterschelde,Dijkring 27 - Tholen en St. Philipsland,OS - dp 1035,"10,0",automatisch
+2297,68253,393725,Oosterschelde,Dijkring 27 - Tholen en St. Philipsland,OS - dp 1047,"10,0",automatisch
+2298,69302,393477,Oosterschelde,Dijkring 27 - Tholen en St. Philipsland,OS - dp 1060,"10,0", 
+2299,70581,392819,Oosterschelde,Dijkring 27 - Tholen en St. Philipsland,OS - dp 1075,"10,0",automatisch
+2300,72849,383761,Oosterschelde,Dijkring 31 - Zuid-Beveland - oost,OS - dp 1205,"10,0", 
+2301,69828,383759,Oosterschelde,Dijkring 31 - Zuid-Beveland - oost,OS - dp 1240,"10,0", 
+2302,68235,383077,Oosterschelde,Dijkring 31 - Zuid-Beveland - oost,OS - dp 1260,"10,0", 
+2303,67509,383637,Oosterschelde,Dijkring 31 - Zuid-Beveland - oost,OS - dp 1270,"10,0", 
+2304,66197,384356,Oosterschelde,Dijkring 31 - Zuid-Beveland - oost,OS - dp 1285,"10,0", 
+2305,64563,385919,Oosterschelde,Dijkring 31 - Zuid-Beveland - oost,OS - dp 1310,"10,0", 
+2306,63352,387374,Oosterschelde,Dijkring 31 - Zuid-Beveland - oost,OS - dp 1330,"10,0", 
+2307,49672,410700,Oosterschelde,Dijkring 26 - Schouwen Duivenland,OS - dp 135,"10,0", 
+2308,62611,389623,Oosterschelde,Dijkring 31 - Zuid-Beveland - oost,OS - dp 1355,"10,0", 
+2309,62146,391233,Oosterschelde,Dijkring 31 - Zuid-Beveland - oost,OS - dp 1375,"10,0", 
+2310,60888,391838,Oosterschelde,Dijkring 31 - Zuid-Beveland - oost,OS - dp 1390,"10,0", 
+2311,60015,392771,Oosterschelde,Dijkring 31 - Zuid-Beveland - oost,OS - dp 1410,"10,0", 
+2312,59102,389742,Oosterschelde,Dijkring 31 - Zuid-Beveland - oost,OS - dp 1445,"10,0", 
+2313,59336,386730,Oosterschelde,Dijkring 31 - Zuid-Beveland - oost,OS - dp 1475,"10,0", 
+2314,58895,386791,Oosterschelde,Dijkring 30 - Zuid-Beveland - west,OS - dp 1490,"10,0", 
+2315,40865,410555,Oosterschelde,Dijkring 26 - Schouwen Duivenland,OS - dp 15,"10,0", 
+2316,58823,390314,Oosterschelde,Dijkring 30 - Zuid-Beveland - west,OS - dp 1525,"10,0",automatisch
+2317,59563,392641,Oosterschelde,Dijkring 30 - Zuid-Beveland - west,OS - dp 1555,"10,0",automatisch
+2318,58928,393310,Oosterschelde,Dijkring 30 - Zuid-Beveland - west,OS - dp 1580,"10,0", 
+2319,54884,394003,Oosterschelde,Dijkring 30 - Zuid-Beveland - west,OS - dp 1625,"10,0",automatisch
+2320,53881,395032,Oosterschelde,Dijkring 30 - Zuid-Beveland - west,OS - dp 1645,"10,0", 
+2321,51146,408263,Oosterschelde,Dijkring 26 - Schouwen Duivenland,OS - dp 165,"10,0", 
+2322,53871,395553,Oosterschelde,Dijkring 30 - Zuid-Beveland - west,OS - dp 1650,"10,0", 
+2323,53083,396023,Oosterschelde,Dijkring 30 - Zuid-Beveland - west,OS - dp 1660,"10,0", 
+2324,51338,395731,Oosterschelde,Dijkring 30 - Zuid-Beveland - west,OS - dp 1685,"10,0", 
+2325,49851,397046,Oosterschelde,Dijkring 28 - Noord-Beveland,OS - dp 1720,"10,0", 
+2326,50218,397420,Oosterschelde,Dijkring 28 - Noord-Beveland,OS - dp 1725,"10,0", 
+2327,51423,398700,Oosterschelde,Dijkring 28 - Noord-Beveland,OS - dp 1750,"10,0", 
+2328,49812,401771,Oosterschelde,Dijkring 28 - Noord-Beveland,OS - dp 1795,"10,0", 
+2329,51432,406840,Oosterschelde,Dijkring 26 - Schouwen Duivenland,OS - dp 180,"10,0", 
+2330,48666,402503,Oosterschelde,Dijkring 28 - Noord-Beveland,OS - dp 1810,"10,0", 
+2331,46458,402640,Oosterschelde,Dijkring 28 - Noord-Beveland,OS - dp 1835,"10,0", 
+2332,43404,402264,Oosterschelde,Dijkring 28 - Noord-Beveland,OS - dp 1872,"10,0", 
+2333,41736,402131,Oosterschelde,Dijkring 28 - Noord-Beveland,OS - dp 1890,"10,0", 
+2334,40782,401909,Oosterschelde,Dijkring 28 - Noord-Beveland,OS - dp 1900,"10,0", 
+2335,39466,401487,Oosterschelde,Dijkring 28 - Noord-Beveland,OS - dp 1915,"10,0", 
+2336,37858,402358,Oosterschelde,Dijkring 28 - Noord-Beveland,OS - dp 1935,"10,0", 
+2337,37295,402335,Oosterschelde,Dijkring 28 - Noord-Beveland,OS - dp 1940,"10,0", 
+2338,54292,405939,Oosterschelde,Dijkring 26 - Schouwen Duivenland,OS - dp 255,"10,0", 
+2339,55105,405427,Oosterschelde,Dijkring 26 - Schouwen Duivenland,OS - dp 270,"10,0", 
+2340,56094,404359,Oosterschelde,Dijkring 26 - Schouwen Duivenland,OS - dp 285,"10,0", 
+2341,60321,404519,Oosterschelde,Dijkring 26 - Schouwen Duivenland,OS - dp 335,"10,0", 
+2342,60676,404753,Oosterschelde,Dijkring 26 - Schouwen Duivenland,OS - dp 340,"10,0", 
+2343,64721,406747,Oosterschelde,Dijkring 26 - Schouwen Duivenland,OS - dp 390,"10,0", 
+2344,65190,406967,Oosterschelde,Dijkring 26 - Schouwen Duivenland,OS - dp 395,"10,0", 
+2345,71844,405800,Oosterschelde,Dijkring 27 - Tholen en St. Philipsland,OS - dp 555,"10,0", 
+2346,67581,407876,Oosterschelde,Dijkring 27 - Tholen en St. Philipsland,OS - dp 605,"10,0", 
+2347,65875,406457,Oosterschelde,Dijkring 27 - Tholen en St. Philipsland,OS - dp 630,"10,0", 
+2348,66731,405107,Oosterschelde,Dijkring 27 - Tholen en St. Philipsland,OS - dp 650,"10,0", 
+2349,68734,403495,Oosterschelde,Dijkring 27 - Tholen en St. Philipsland,OS - dp 680,"10,0",automatisch
+2350,45340,413260,Oosterschelde,Dijkring 26 - Schouwen Duivenland,OS - dp 70,"10,0", 
+2351,70500,403614,Oosterschelde,Dijkring 27 - Tholen en St. Philipsland,OS - dp 700,"10,0",automatisch
+2352,70892,403952,Oosterschelde,Dijkring 27 - Tholen en St. Philipsland,OS - dp 705,"10,0", 
+2353,71065,403097,Oosterschelde,Dijkring 27 - Tholen en St. Philipsland,OS - dp 720,"10,0", 
+2354,69964,402418,Oosterschelde,Dijkring 27 - Tholen en St. Philipsland,OS - dp 735,"10,0", 
+2355,69303,401802,Oosterschelde,Dijkring 27 - Tholen en St. Philipsland,OS - dp 745,"10,0",automatisch
+2356,67294,401699,Oosterschelde,Dijkring 27 - Tholen en St. Philipsland,OS - dp 765,"10,0", 
+2357,66160,402550,Oosterschelde,Dijkring 27 - Tholen en St. Philipsland,OS - dp 785,"10,0", 
+2358,65192,403324,Oosterschelde,Dijkring 27 - Tholen en St. Philipsland,OS - dp 795,"10,0", 
+2359,64215,403495,Oosterschelde,Dijkring 27 - Tholen en St. Philipsland,OS - dp 810,"10,0", 
+2360,63748,403393,Oosterschelde,Dijkring 27 - Tholen en St. Philipsland,OS - dp 815,"10,0",automatisch
+2361,62442,402857,Oosterschelde,Dijkring 27 - Tholen en St. Philipsland,OS - dp 830,"10,0", 
+2362,61158,402176,Oosterschelde,Dijkring 27 - Tholen en St. Philipsland,OS - dp 845,"10,0", 
+2363,46683,412944,Oosterschelde,Dijkring 26 - Schouwen Duivenland,OS - dp 85,"10,0", 
+2364,58885,401402,Oosterschelde,Dijkring 27 - Tholen en St. Philipsland,OS - dp 875,"10,0", 
+2365,60418,398515,Oosterschelde,Dijkring 27 - Tholen en St. Philipsland,OS - dp 925,"10,0", 
+2366,60930,397674,Oosterschelde,Dijkring 27 - Tholen en St. Philipsland,OS - dp 940,"10,0",automatisch
+2367,62948,395595,Oosterschelde,Dijkring 27 - Tholen en St. Philipsland,OS - dp 975,"10,0",automatisch
+2368,63647,394490,Oosterschelde,Dijkring 27 - Tholen en St. Philipsland,OS - dp 990,"10,0", 
+2369,62356,390114,Oosterschelde,Dijkring 31 - Zuid-Beveland - oost,OS â€“ dp 1361,"10,0", 
+2383,83950,429550,Oude Maas,Dijkring 17 - IJsselmonde,"Oude Maas km 1001,2 (dkr17 km 19,4)","10,0",automatisch
+2384,83306,429595,Oude Maas,Dijkring 20 - Voorne-Putten,"Oude Maas km 1001,5 (dkr20 km 30,0)","10,0",automatisch
+2385,82740,430200,Oude Maas,Dijkring 20 - Voorne-Putten,"Oude Maas km 1002,4 (dkr20 km 30,85)","10,0",automatisch
+2386,82527,430730,Oude Maas,Dijkring 20 - Voorne-Putten,"Oude Maas km 1002,9 (dkr20 km 31,6)","10,0",automatisch
+2387,105299,425358,Oude Maas,Dijkring 22 - Eiland van Dordrecht,"Oude Maas km 977 (Dkr22 km 35,2)","10,0",automatisch
+2388,101677,423049,Oude Maas,Dijkring 21 - Hoekse Waard,"Oude Maas km 981 (Dkr21 km 16,4)","10,0",automatisch
+2389,100550,424650,Oude Maas,Dijkring 17 - IJsselmonde,"Oude Maas km 982,3 (dkr17 km 61,5)","10,0",automatisch
+2390,98994,424637,Oude Maas,Dijkring 21 - Hoekse Waard,"Oude Maas km 983,7 (Dkr21 km 12,8)","10,0",automatisch
+2391,98250,426050,Oude Maas,Dijkring 17 - IJsselmonde,"Oude Maas km 985,4 (dkr17 km 2,2)","10,0",automatisch
+2392,97450,426285,Oude Maas,Dijkring 21 - Hoekse Waard,"Oude Maas km 986 (Dkr21 km 10,3)","10,0",automatisch
+2393,97950,426950,Oude Maas,Dijkring 17 - IJsselmonde,"Oude Maas km 986,3 (dkr17 km 3,2)","10,0",automatisch
+2394,96850,427650,Oude Maas,Dijkring 17 - IJsselmonde,"Oude Maas km 987,3 (dkr17 km 4,7)","10,0",automatisch
+2395,91850,427850,Oude Maas,Dijkring 17 - IJsselmonde,"Oude Maas km 992,4 (dkr17 km 10,4)","10,0",automatisch
+2396,91934,427189,Oude Maas,Dijkring 21 - Hoekse Waard,"Oude Maas km 993,6 (Dkr21 km 3,2)","10,0",automatisch
+2397,89513,427586,Oude Maas,Dijkring 21 - Hoekse Waard,"Oude Maas km 994,5 (Dkr21 km 2,2)","10,0",automatisch
+2398,89450,428750,Oude Maas,Dijkring 17 - IJsselmonde,"Oude Maas km 995,5 (dkr17 km 13,1)","10,0",automatisch
+2399,87850,429050,Oude Maas,Dijkring 17 - IJsselmonde,"Oude Maas km 996,9 (dkr17 km 14,9)","10,0",automatisch
+2400,87272,428967,Oude Maas,Dijkring 17 - IJsselmonde,"Oude Maas km 997,4 (dkr17 km 15,7)","10,0",automatisch
+2401,85950,428950,Oude Maas,Dijkring 17 - IJsselmonde,"Oude Maas km 998,9 (dkr17 km 17,2)","10,0",automatisch
+2402,85095,428437,Oude Maas,Dijkring 20 - Voorne-Putten,"Oude Maas km 999,5 (dkr20 km 27,6)","10,0",automatisch
+2414,217750,504546,Vecht,Dijkring 09 - Vollenhove,Oudleusen,"20,0",vast
+2418,124593,414594,Bergsche Maas,Dijkring 35 - Donge,OverdiepschePolder,"-999,0",vast
+2423,118000,418700,Steurgat,Dijkring 24 - Land van Altena,Pauluszand,"10,0",vast
+2425,105570,531299,Noordzee,Dijkring 13 - Noord-Holland,PETTEMER ZEEWERING_0,"10,0", 
+2519,150952,440562,Lek,"Dijkring 43 - Betuwe, Tieler- en Culemborgerwaard",Ravenswaaij,"-999,0",vast
+2523,216201,501999,Overijsselse Vecht,Dijkring 53 - Salland,Rechteren,"20,0",vast
+2531,207264,452787,IJssel,Dijkring 49 - IJsselland,Rha,"-999,0",vast
+2532,177137,539747,IJsselmeer,Dijkring 06 - Friesland en Groningen,Riensluis,"-9999,0", 
+2548,118569,560994,Waddenzee,Dijkring 05 - Texel,RIJKSZEEWERING BOLWERK_0.5,"10,0", 
+2550,93748,435284,Nieuwe Maas,Dijkring 17 - IJsselmonde,"Rijnhaven (dkr17 km 36,5)","200,0",vast
+2554,190883,443248,Nederrijn,Dijkring 47 - Arnhemse- en Velpsebroek,RijnkadeArnhem,"-999,0", 
+2820,95526,436354,Nieuwe Maas,Dijkring 14 - Zuid-Holland,Rotterdam Honingerdijk (Hmp. 10),"10,0",automatisch
+2821,94490,437575,Nieuwe Maas,Dijkring 14 - Zuid-Holland,Rotterdam_Boerengatsluis,"10,0",automatisch
+2822,91398,435953,Nieuwe Maas,Dijkring 14 - Zuid-Holland,Rotterdam_Parksluizen,"13,57",vast
+2837,69450,446850,Noordzee,Dijkring 14 - Zuid-Holland,s-Gravenzande,"10,0",automatisch
+2838,195848,443336,IJssel,Dijkring 47 - Arnhemse- en Velpsebroek,Schaapdijk,"-999,0", 
+2843,129989,512272,Markermeer,Dijkring 13 - Noord-Holland,SCHARDAM EN KEUKENDIJK,"10,0", 
+2845,73328,399846,Schelde - Rijnkanaal,Dijkring 34 - West-Brabant (regionaal),Schelde-Rijnkanaal 1,"-999,0",automatisch
+2846,74410,394572,Schelde - Rijnkanaal,Dijkring 27 - Tholen en St. Philipsland,Schelde-Rijnkanaal 13 KM,"10,0",automatisch
+2847,73455,392155,Schelde - Rijnkanaal,Dijkring 27 - Tholen en St. Philipsland,Schelde-Rijnkanaal 16 KM,"10,0",automatisch
+2848,71387,392287,Schelde - Rijnkanaal,Dijkring 27 - Tholen en St. Philipsland,Schelde-Rijnkanaal 19 KM,"10,0",automatisch
+2849,75526,396263,Schelde - Rijnkanaal,Dijkring 34 - West-Brabant (regionaal),Schelde-Rijnkanaal 2,"-999,0",automatisch
+2850,76103,391109,Schelde - Rijnkanaal,Dijkring 34 - West-Brabant (regionaal),Schelde-Rijnkanaal 3,"-999,0",automatisch
+2851,74623,388802,Schelde - Rijnkanaal,Dijkring 34 - West-Brabant (regionaal),Schelde-Rijnkanaal 4,"-999,0",automatisch
+2852,75352,392142,Schelde - Rijnkanaal,Dijkring 34 - West-Brabant (regionaal),Schelde-Rijnkanaal 5,"-999,0",automatisch
+2853,74541,382267,Schelde - Rijnkanaal,Dijkring 31 - Zuid-Beveland - oost,"Schelde-Rijnkanaal ZB 0,5 KM","10,0",automatisch
+2854,126134,488522,Markermeer,Dijkring 13 - Noord-Holland,SCHELLINGWOUDERDIJK_2,"10,0", 
+2928,79221,458241,Noordzee,Dijkring 14 - Zuid-Holland,ScheveningenBoulevard,"10,0",automatisch
+2929,78339,456199,Noordzee,Dijkring 14 - Zuid-Holland,ScheveningenUitwateringssluis,"10,0",automatisch
+2930,87670,435620,Nieuwe Maas,Dijkring 14 - Zuid-Holland,Schiedam_sluisBuitenhaven,"10,0",automatisch
+2931,90407,435456,Nieuwe Maas,Dijkring 14 - Zuid-Holland,Schiemond (dp S 053),"10,0",automatisch
+2932,207404,609925,Waddenzee,Dijkring 01 - Schiermonnikoog,Schiermonnikoog,"-999,0", 
+2934,206841,426806,Boven Rijn,Dijkring 42 - Ooij en Millingen,Schleuse Brienen,"-999,0", 
+2937,161858,583903,Waddenzee,Dijkring 06 - Friesland en Groningen,Sexbierum,"-9999,0", 
+2938,149848,467556,Eem,Dijkring 45 - Gelderse Vallei,Slaagse dijk,"50,0",vast
+2940,187025,420250,Maas,Dijkring 41 - Land van Maas en Waal,SluisHeumenMWK,"-9999,0",vast
+2941,153050,440550,Lek,"Dijkring 43 - Betuwe, Tieler- en Culemborgerwaard",SluisRijswijkARK,"-999,0",vast
+2942,159613,434766,Waal,"Dijkring 43 - Betuwe, Tieler- en Culemborgerwaard",SluisTielARK,"-999,0",vast
+2943,184950,429550,Waal,Dijkring 41 - Land van Maas en Waal,SluisWeurtMWK,"-9999,0",vast
+2944,206624,429569,Boven Rijn,Dijkring 48 - Rijn en IJssel,Spijk,"-9999,0",vast
+2945,191966,507596,IJssel,Dijkring 10 - Mastenbroek,Spoorlijn - N50,"20,0",vast
+2947,84594,425797,Spui,Dijkring 21 - Hoekse Waard,"Spui km 1000,8 (Dkr21 km 65,6)","10,0",automatisch
+2948,84083,426197,Spui,Dijkring 20 - Voorne-Putten,"Spui km 1001,3 (dkr20 km 22,8)","10,0",automatisch
+2949,83370,426121,Spui,Dijkring 20 - Voorne-Putten,"Spui km 1002 (dkr20 km 22,0)","10,0",automatisch
+2950,80545,425193,Spui,Dijkring 20 - Voorne-Putten,"Spui km 1005 (dkr20 km 19,0)","10,0",automatisch
+2951,80085,424894,Spui,Dijkring 20 - Voorne-Putten,"Spui km 1005,5 (dkr20 km 18,4)","10,0",automatisch
+2952,79346,424272,Spui,Dijkring 21 - Hoekse Waard,"Spui km 1006,6 (Dkr21 km 59,6)","10,0",automatisch
+2953,79309,424871,Spui,Dijkring 20 - Voorne-Putten,"Spui km 1006,8 (dkr20 km 17,6)","10,0",vast
+2954,78490,424641,Spui,Dijkring 20 - Voorne-Putten,"Spui km 1007,5 (dkr20 km 16,6)","10,0",automatisch
+2955,77158,421893,Spui,Dijkring 21 - Hoekse Waard,"Spui km 1011 (Dkr21 km 55,6)","10,0",automatisch
+2956,88268,427136,Spui,Dijkring 21 - Hoekse Waard,"Spui km 996,6 (Dkr21 km 0,4)","10,0",automatisch
+2957,86298,427217,Spui,Dijkring 20 - Voorne-Putten,"Spui km 998,5 (dkr20 km 25,4)","10,0",automatisch
+2958,226000,419740,Boven Rijn,Dijkring 48 - Rijn en IJssel,Stadt Rees,"-999,0", 
+2977,153929,542967,IJsselmeer,Dijkring 06 - Friesland en Groningen,Stavoren,"-9999,0", 
+2996,106971,534192,Noordzee,Dijkring 13 - Noord-Holland,STRAND / DUIN KM_11,"10,0", 
+2997,108458,540342,Noordzee,Dijkring 13 - Noord-Holland,STRAND _ DUIN KM_17,"10,0", 
+2998,103263,516263,Noordzee,Dijkring 13 - Noord-Holland,STRAND _ DUIN KM_37.5,"10,0", 
+2999,109796,549405,Noordzee,Dijkring 13 - Noord-Holland,STRAND _ DUIN KM_4.2,"10,0", 
+3009,181696,594964,Waddenzee,Dijkring 06 - Friesland en Groningen,Tempeltje,"-999,0", 
+3010,183432,596365,Waddenzee,Dijkring 06 - Friesland en Groningen,Tempeltje,"-9999,0", 
+3011,70546,448232,Noordzee,Dijkring 14 - Zuid-Holland,Ter Heijde,"10,0",automatisch
+3012,70550,448250,Noordzee,Dijkring 14 - Zuid-Holland,Ter Heijde,"10,0",automatisch
+3014,159233,433695,Waal,"Dijkring 43 - Betuwe, Tieler- en Culemborgerwaard",TielOost,"-9999,0",vast
+3015,158446,432734,Waal,"Dijkring 43 - Betuwe, Tieler- en Culemborgerwaard",TielWest,"-999,0",vast
+3016,190250,429550,Waal,Dijkring 42 - Ooij en Millingen,Tiengeboden,"-9999,0",vast
+3024,206500,472550,IJssel,Dijkring 52 - Oost Veluwe,tSchol,"-9999,0",vast
+3025,157309,576426,Waddenzee,Dijkring 06 - Friesland en Groningen,TsjerkHiddessluis,"-9999,0", 
+3027,132371,491871,Markermeer,Dijkring 13 - Noord-Holland,UITDAMMERDIJK_3.5,"10,0", 
+3028,129926,488816,Markermeer,Dijkring 13 - Noord-Holland,UITDAMMERDIJK_8,"10,0", 
+3077,197258,505378,IJssel,Dijkring 10 - Mastenbroek,Veecaten,"20,0",vast
+3081,197872,513596,Zwarte Water,Dijkring 10 - Mastenbroek,VEGS,"20,0",vast
+3082,203046,513505,Zwarte Water,Dijkring 09 - Vollenhove,Veldiger binnenland,"20,0",vast
+3083,212087,457971,IJssel,Dijkring 50 - Zutphen,Vierakker,"-9999,0",vast
+3084,83440,435455,Nieuwe Maas,Dijkring 14 - Zuid-Holland,Vlaardingen schutsluis,"10,0",vast
+3085,79825,435260,Scheur,Dijkring 14 - Zuid-Holland,Vlaardingen-West (dp D81),"10,0",automatisch
+3086,133633,589855,Waddenzee,Dijkring 04 - Vlieland,Vlieland,"10,0",automatisch
+3098,83933,411366,Volkerak,Dijkring 25 - Goeree-Overflakkee,"Volkerak (dkr25 km 29,2)","10,0",automatisch
+3099,80457,408491,Volkerak,Dijkring 25 - Goeree-Overflakkee,"Volkerak (dkr25 km 34,8)","10,0",automatisch
+3100,86135,409635,Volkerak,Dijkring 34 - West-Brabant (regionaal),VolkerakZoommeer 1,"-999,0",automatisch
+3101,83717,407248,Volkerak,Dijkring 34 - West-Brabant (regionaal),VolkerakZoommeer 2,"-999,0",automatisch
+3102,75054,404869,Volkerak,Dijkring 34 - West-Brabant (regionaal),VolkerakZoommeer 3,"-999,0",automatisch
+3103,79242,405236,Volkerak,Dijkring 34 - West-Brabant (regionaal),VolkerakZoommeer 4,"-999,0",automatisch
+3104,74323,392861,Volkerak,Dijkring 34 - West-Brabant (regionaal),VolkerakZoommeer 5,"-999,0",automatisch
+3118,200875,503425,Zwarte Water,Dijkring 10 - Mastenbroek,Voorsterhaven,"20,0",vast
+3121,81114,419003,Haringvliet,Dijkring 21 - Hoekse Waard,"Vuile Gat km 1007,4 (Dkr21 km 50,2)","10,0",automatisch
+3125,155559,426461,Waal,Dijkring 40 - Heerewaarden,Waal,"-999,0", 
+3127,90773,432791,Nieuwe Maas,Dijkring 17 - IJsselmonde,"Waalhaven (dkr17 km 31,6)","10,0",automatisch
+3178,106745,424962,Wantij,Dijkring 22 - Eiland van Dordrecht,"Wantij km 1 (Dkr22 km 0,6)","10,0",automatisch
+3179,107537,425344,Wantij,Dijkring 22 - Eiland van Dordrecht,"Wantij km 1,7 (Dkr22 km 2,0)","10,0",automatisch
+3180,109813,424303,Wantij,Dijkring 22 - Eiland van Dordrecht,"Wantij km 4,3 (Dkr22 km 4,8)","10,0",automatisch
+3181,110173,424133,Wantij,Dijkring 22 - Eiland van Dordrecht,"Wantij km 4,8 (Dkr22 km 5,2)","10,0",automatisch
+3182,110882,423251,Oude Maas,Dijkring 22 - Eiland van Dordrecht,"Wantij km 5,8 (Dkr22 km 6,6)","10,0",automatisch
+3185,148117,523522,IJsselmeer,Dijkring 13 - Noord-Holland,WATERKERING ENKHUIZEN_0.5,"10,0", 
+3186,136748,531182,IJsselmeer,Dijkring 13 - Noord-Holland,WATERKERING MEDEMBLIK_0,"10,0", 
+3187,131077,497203,Markermeer,Dijkring 13 - Noord-Holland,WATERLANDSE ZEEDIJK_1.5,"10,0", 
+3208,123450,426350,Boven Merwede,Dijkring 24 - Land van Altena,Werkendam,"10,0",vast
+3209,120430,425057,Boven Merwede,Dijkring 24 - Land van Altena,Werkendamstad,"10,0",vast
+3210,198975,516025,Zwarte Water,Dijkring 10 - Mastenbroek,West Genemuiden,"20,0",vast
+3211,152562,475548,Nijkerkernauw,Dijkring 45 - Gelderse Vallei,Westdijk,"50,0",vast
+3214,199163,502692,IJssel,Dijkring 10 - Mastenbroek,Westenholte,"20,0",vast
+3231,132957,516857,Markermeer,Dijkring 13 - Noord-Holland,WESTERDIJK VAN DRECHTERLAND_0,"10,0", 
+3232,130999,516576,Markermeer,Dijkring 13 - Noord-Holland,WESTERDIJK VAN DRECHTERLAND_2.5,"10,0", 
+3233,169000,529900,IJsselmeer,Dijkring 07 - Noordoostpolder,Westermeerdijk,"-999,0", 
+3243,183850,430750,Waal,Dijkring 41 - Land van Maas en Waal,Weurt,"-9999,0",vast
+3252,136220,538931,IJsselmeer,Dijkring 12 - Wieringermeer,Wieringermeerdijk_11505,"10,0", 
+3253,131625,548195,IJsselmeer,Dijkring 12 - Wieringermeer,Wieringermeerdijk_32,"-999,0",automatisch
+3254,131184,549750,Waddenzee,Dijkring 12 - Wieringermeer,Wieringerzeewering Oosterland tot Den Oever_2.25,"10,0", 
+3255,128620,549483,Waddenzee,Dijkring 12 - Wieringermeer,Wieringerzeewering tot Oosterland_7.75,"10,0", 
+3256,195778,601723,Waddenzee,Dijkring 06 - Friesland en Groningen,Wierum,"-9999,0", 
+3257,205459,488868,IJssel,Dijkring 53 - Salland,Wijhe,"20,0",vast
+3260,150296,441797,Lek,Dijkring 44 - Kromme Rijn,Wijk bij Duurstede,"-9999,0",automatisch
+3261,139403,443507,Lek,Dijkring 44 - Kromme Rijn,Wijk bij Duurstede - A27,"10,0",automatisch
+3274,117298,409638,Wilhelminakanaal,Dijkring 34 - West-Brabant,Wilhelminakanaal,"12,0", 
+3275,117633,409708,Wilhelminakanaal,Dijkring 35 - Donge,Wilhelminakanaal,"-999,0",vast
+3276,91315,411203,Hollandsch Diep,Dijkring 34 - West-Brabant,Willemstad,"12,0", 
+3277,89062,412358,Hollandsch Diep,Dijkring 34 - West-Brabant,Willemstad-stad,"12,0", 
+3281,204965,494547,IJssel,Dijkring 53 - Salland,Windesheim,"20,0",vast
+3296,158176,553919,IJsselmeer,Dijkring 06 - Friesland en Groningen,Workum,"-9999,0", 
+3297,156916,552379,IJsselmeer,Dijkring 06 - Friesland en Groningen,WorkumerNieuwland,"-999,0", 
+3299,129100,424550,Afgedamde Maas,Dijkring 24 - Land van Altena,Woudrichem,"10,0",vast
+3300,68054,379450,Westerschelde,Dijkring 31 - Zuid-Beveland - oost,WSNoo - dp 105,"10,0", 
+3301,65513,380624,Westerschelde,Dijkring 31 - Zuid-Beveland - oost,WSNoo - dp 135,"10,0", 
+3302,63677,381022,Westerschelde,Dijkring 31 - Zuid-Beveland - oost,WSNoo - dp 155,"10,0", 
+3303,62437,381774,Westerschelde,Dijkring 31 - Zuid-Beveland - oost,WSNoo - dp 170,"10,0", 
+3304,61942,382593,Westerschelde,Dijkring 31 - Zuid-Beveland - oost,WSNoo - dp 180,"10,0", 
+3305,60962,383664,Westerschelde,Dijkring 31 - Zuid-Beveland - oost,WSNoo - dp 200,"10,0", 
+3306,59676,385227,Westerschelde,Dijkring 31 - Zuid-Beveland - oost,WSNoo - dp 235,"10,0", 
+3307,57858,385861,Westerschelde,Dijkring 30 - Zuid-Beveland - west,WSNoo - dp 275,"10,0", 
+3308,55955,386231,Westerschelde,Dijkring 30 - Zuid-Beveland - west,WSNoo - dp 300,"10,0", 
+3309,53261,385471,Westerschelde,Dijkring 30 - Zuid-Beveland - west,WSNoo - dp 335,"10,0", 
+3310,53037,383332,Westerschelde,Dijkring 30 - Zuid-Beveland - west,WSNoo - dp 360,"10,0",automatisch
+3311,52074,380994,Westerschelde,Dijkring 30 - Zuid-Beveland - west,WSNoo - dp 385,"10,0", 
+3312,49842,379827,Westerschelde,Dijkring 30 - Zuid-Beveland - west,WSNoo - dp 420,"10,0", 
+3313,48130,379273,Westerschelde,Dijkring 30 - Zuid-Beveland - west,WSNoo - dp 445,"10,0", 
+3314,45671,378621,Westerschelde,Dijkring 30 - Zuid-Beveland - west,WSNoo - dp 470,"10,0", 
+3315,43915,380070,Westerschelde,Dijkring 30 - Zuid-Beveland - west,WSNoo - dp 495,"10,0", 
+3316,72742,380012,Westerschelde,Dijkring 31 - Zuid-Beveland - oost,WSNoo - dp 50,"10,0", 
+3317,40454,381586,Westerschelde,Dijkring 30 - Zuid-Beveland - west,WSNoo - dp 540,"10,0", 
+3318,38503,384012,Westerschelde,Dijkring 30 - Zuid-Beveland - west,WSNoo - dp 575,"10,0", 
+3319,39118,385014,Westerschelde,Dijkring 30 - Zuid-Beveland - west,WSNoo - dp 595,"10,0", 
+3320,38963,389006,Westerschelde,Dijkring 30 - Zuid-Beveland - west,WSNoo - dp 660,"10,0", 
+3321,71159,380078,Westerschelde,Dijkring 31 - Zuid-Beveland - oost,WSNoo - dp 70,"10,0", 
+3322,34641,386689,Westerschelde,Dijkring 29 - Walcheren,WSNoo - dp 715,"10,0", 
+3323,33911,386007,Westerschelde,Dijkring 29 - Walcheren,WSNoo - dp 730,"10,0", 
+3324,33622,385648,Westerschelde,Dijkring 29 - Walcheren,WSNoo - dp 735,"10,0", 
+3325,31669,385079,Westerschelde,Dijkring 29 - Walcheren,WSNoo - dp 760,"10,0", 
+3326,30506,385639,Westerschelde,Dijkring 29 - Walcheren,WSNoo - dp 795,"10,0", 
+3328,66507,373780,Westerschelde,Dijkring 32 - Zeeuwsch Vlaanderen,Wszui - dp 102,"10,0", 
+3329,66023,374610,Westerschelde,Dijkring 32 - Zeeuwsch Vlaanderen,Wszui - dp 110,"10,0", 
+3330,65237,374940,Westerschelde,Dijkring 32 - Zeeuwsch Vlaanderen,Wszui - dp 120,"10,0", 
+3331,63172,375879,Westerschelde,Dijkring 32 - Zeeuwsch Vlaanderen,Wszui - dp 145,"10,0", 
+3332,61304,376916,Westerschelde,Dijkring 32 - Zeeuwsch Vlaanderen,Wszui - dp 170,"10,0", 
+3333,60574,378493,Westerschelde,Dijkring 32 - Zeeuwsch Vlaanderen,Wszui - dp 190,"10,0", 
+3334,59959,379598,Westerschelde,Dijkring 32 - Zeeuwsch Vlaanderen,Wszui - dp 205,"10,0", 
+3335,58678,380134,Westerschelde,Dijkring 32 - Zeeuwsch Vlaanderen,Wszui - dp 230,"10,0", 
+3336,57585,380570,Westerschelde,Dijkring 32 - Zeeuwsch Vlaanderen,Wszui - dp 245,"10,0", 
+3337,56094,379270,Westerschelde,Dijkring 32 - Zeeuwsch Vlaanderen,Wszui - dp 265,"10,0", 
+3338,55933,377889,Westerschelde,Dijkring 32 - Zeeuwsch Vlaanderen,Wszui - dp 280,"10,0", 
+3339,54841,376066,Westerschelde,Dijkring 32 - Zeeuwsch Vlaanderen,Wszui - dp 310,"10,0", 
+3340,53887,375887,Westerschelde,Dijkring 32 - Zeeuwsch Vlaanderen,Wszui - dp 320,"10,0", 
+3341,50434,374200,Westerschelde,Dijkring 32 - Zeeuwsch Vlaanderen,Wszui - dp 360,"10,0", 
+3342,49953,374098,Westerschelde,Dijkring 32 - Zeeuwsch Vlaanderen,Wszui - dp 365,"10,0", 
+3343,48804,372948,Westerschelde,Dijkring 32 - Zeeuwsch Vlaanderen,Wszui - dp 380,"10,0", 
+3344,71676,372353,Westerschelde,Dijkring 32 - Zeeuwsch Vlaanderen,Wszui - dp 40,"10,0", 
+3345,46567,373327,Westerschelde,Dijkring 32 - Zeeuwsch Vlaanderen,Wszui - dp 405,"10,0", 
+3346,45509,372667,Westerschelde,Dijkring 32 - Zeeuwsch Vlaanderen,Wszui - dp 427,"10,0", 
+3347,45110,372786,Westerschelde,Dijkring 32 - Zeeuwsch Vlaanderen,Wszui - dp 435,"10,0", 
+3348,44041,374142,Westerschelde,Dijkring 32 - Zeeuwsch Vlaanderen,Wszui - dp 455,"10,0", 
+3349,74209,373993,Westerschelde,Dijkring 32 - Zeeuwsch Vlaanderen,Wszui - dp 5,"10,0", 
+3350,41492,373444,Westerschelde,Dijkring 32 - Zeeuwsch Vlaanderen,Wszui - dp 500,"10,0", 
+3351,41497,374273,Westerschelde,Dijkring 32 - Zeeuwsch Vlaanderen,Wszui - dp 510,"10,0", 
+3352,38433,374857,Westerschelde,Dijkring 32 - Zeeuwsch Vlaanderen,Wszui - dp 545,"10,0", 
+3353,37475,375897,Westerschelde,Dijkring 32 - Zeeuwsch Vlaanderen,Wszui - dp 560,"10,0", 
+3354,37119,376237,Westerschelde,Dijkring 32 - Zeeuwsch Vlaanderen,Wszui - dp 565,"10,0", 
+3355,36844,376707,Westerschelde,Dijkring 32 - Zeeuwsch Vlaanderen,Wszui - dp 570,"10,0", 
+3356,31003,378636,Westerschelde,Dijkring 32 - Zeeuwsch Vlaanderen,Wszui - dp 630,"10,0", 
+3357,30084,378951,Westerschelde,Dijkring 32 - Zeeuwsch Vlaanderen,Wszui - dp 640,"10,0", 
+3358,29244,379473,Westerschelde,Dijkring 32 - Zeeuwsch Vlaanderen,Wszui - dp 650,"10,0", 
+3359,27250,380637,Westerschelde,Dijkring 32 - Zeeuwsch Vlaanderen,Wszui - dp 680,"10,0", 
+3360,25661,381258,Noordzee,Dijkring 32 - Zeeuwsch Vlaanderen,Wszui - dp 705,"10,0", 
+3361,22296,380275,Noordzee,Dijkring 32 - Zeeuwsch Vlaanderen,Wszui - dp 745,"10,0", 
+3362,20390,379752,Noordzee,Dijkring 32 - Zeeuwsch Vlaanderen,Wszui - dp 765,"10,0", 
+3363,18258,379602,Noordzee,Dijkring 32 - Zeeuwsch Vlaanderen,Wszui - dp 795,"10,0", 
+3364,16017,378650,Noordzee,Dijkring 32 - Zeeuwsch Vlaanderen,Wszui - dp 820,"10,0", 
+3365,15120,378263,Noordzee,Dijkring 32 - Zeeuwsch Vlaanderen,Wszui - dp 830,"10,0", 
+3366,67497,372654,Westerschelde,Dijkring 32 - Zeeuwsch Vlaanderen,Wszui - dp 85,"10,0", 
+3367,226538,413478,Boven Rijn,Dijkring 42 - Ooij en Millingen,Xantener Nordsee,"-999,0", 
+3418,197370,503320,IJssel,Dijkring 11 - IJsseldelta,Zalk,"-999,0",
+3419,187371,510574,IJssel,Dijkring 11 - IJsseldelta,Zandjes,"-999,0",vast
+3427,115600,558775,Waddenzee,Dijkring 05 - Texel,ZEEDIJK PRINS HENDRIKPOLDER_2,"10,0", 
+3428,122437,571929,Waddenzee,Dijkring 05 - Texel,ZEEDIJK VAN DE EENDRACHT_3,"10,0", 
+3429,122274,569410,Waddenzee,Dijkring 05 - Texel,ZEEDIJK VAN HET NOORDEN_1.5,"10,0", 
+3430,119151,561968,Waddenzee,Dijkring 05 - Texel,ZEEDIJK VAN OUDESCHILD_0.5,"10,0", 
+3432,131646,507879,Markermeer,Dijkring 13 - Noord-Holland,ZEEVANGSZEEDIJK_3.5,"10,0", 
+3459,136461,516512,Markermeer,Dijkring 13 - Noord-Holland,ZUIDERDIJK VAN DRECHTERLAND_18.5,"10,0", 
+3460,144775,519036,Markermeer,Dijkring 13 - Noord-Holland,ZUIDERDIJK VAN DRECHTERLAND_6.5,"10,0", 
+3463,134376,502163,Markermeer,Dijkring 13 - Noord-Holland,ZUIDPOLDERZEEDIJK_1.5,"10,0", 
+3464,207073,450783,IJssel,Dijkring 49 - IJsselland,zuiveringOlburgseweg,"-9999,0",vast
+3465,209854,463313,IJssel,Dijkring 50 - Zutphen,Zutphen-marshaven,"-999,0",vast
+3466,199167,514810,Zwarte Water,Dijkring 10 - Mastenbroek,ZW Genemuiden,"20,0", 
+3467,201825,514125,Zwarte Water,Dijkring 10 - Mastenbroek,ZW Vecht 12,"20,0",vast
+3468,201275,504796,Zwarte Water,Dijkring 10 - Mastenbroek,ZW Vecht 265,"20,0",vast
+3469,195532,519221,Zwarte Water,Dijkring 09 - Vollenhove,Zwarte Meer,"20,0",vast
+3470,193042,516764,Zwartemeer,Dijkring 07 - Noordoostpolder,ZWARTEMEERDIJK_ 52.0,"10,0", 
+3471,200369,516843,Zwarte Water,Dijkring 09 - Vollenhove,Zwartsluis,"20,0",vast
+3472,201557,504854,Overijsselse Vecht,Dijkring 53 - Salland,Zwolle Holterbroek,"20,0",vast
+3473,201003,503473,Overijsselse Vecht,Dijkring 53 - Salland,Zwolle IJsselkanaal,"20,0",vast
+3474,200259,501944,IJssel,Dijkring 53 - Salland,Zwolle Noordwest,"20,0",vast
+3475,202344,499799,IJssel,Dijkring 53 - Salland,Zwolle Zuidwest,"20,0",vast
