@@ -16,7 +16,7 @@ Existing hydraulic flood-scenario catalogues are valuable for describing the con
 
 This repository explores one possible AI-based framework for extending such scenario sets.
 
-The project is related to the research direction of **Pillar 3 of the Flood Insurance and Risk Management (FIRM) programme at the University of Amsterdam**, which focuses on hybrid AI methods for extending flood scenarios, modelling impacts probabilistically, translating scenarios into future climate states, and supporting financial-sector applications such as damage assessment and long-term insurability analysis.
+The project focuses on hybrid AI methods for extending flood scenarios, modelling impacts probabilistically, translating scenarios into future climate states, and supporting financial-sector applications such as damage assessment and long-term insurability analysis.
 
 ---
 
@@ -46,7 +46,7 @@ The analysed LIWO inventory contained:
 - **619** breach locations with scenario records
 - **610** locations with usable numeric damage observations
 
-The catalogue has heterogeneous scenario coverage across locations, so return-period-specific analyses were treated carefully rather than assuming a balanced panel.
+The catalogue has heterogeneous scenario coverage across locations, so return-period-specific analyses were treated carefully instead assuming a balanced panel.
 
 ---
 
@@ -113,7 +113,7 @@ Importantly, these are **properties of the synthetic event sets**, not empirical
 
 # A failed experiment that changed the direction
 
-One of the most useful results was a failure rather than an improvement in a benchmark score.
+One of the most useful results was a failure.
 
 The pairwise sequential generator worked reliably for small events, but completion deteriorated as event size increased:
 
@@ -126,7 +126,7 @@ The pairwise sequential generator worked reliably for small events, but completi
 
 This showed me that learning pairwise relationships was **not equivalent to learning a coherent higher-order joint distribution**.
 
-That result motivated a different formulation in which the probability of the next breach depends on the **whole event history**, rather than only on the current breach.
+That result motivated a different formulation in which the probability of the next breach depends on the **whole event history**, instead only on the current breach.
 
 The proposed higher-order architecture is documented in:
 
@@ -170,7 +170,7 @@ Notebook 6 explores how the probabilistic scenario-generation framework could be
 
 The project direction considers future climate scenarios, including **KNMI'23 and IPCC-based states**, together with adaptation pathways and long-term insurability applications.
 
-In this repository, climate conditioning is treated as a **research framework and extension point**, rather than claiming that arbitrary climate multipliers constitute validated hydraulic projections.
+In this repository, climate conditioning is treated as a **research framework and extension point**.
 
 The intended downstream chain is:
 
@@ -329,8 +329,7 @@ The pairwise sequential generator becomes increasingly incomplete as the number 
 
 ### Heterogeneous return-period coverage
 
-Different return periods cover different subsets of breach locations, so cross-return-period comparisons are interpreted as sensitivity analyses rather than a balanced panel.
-
+Different return periods cover different subsets of breach locations, so cross-return-period comparisons are interpreted as sensitivity analyses.
 ### Synthetic probabilities are model outputs
 
 The generated transition probabilities should not be interpreted as calibrated real-world probabilities of simultaneous breach failure.
@@ -355,7 +354,7 @@ The prototype suggests a future hybrid framework in which:
 
 **Research prototype / exploratory implementation**
 
-This repository documents an evolving research investigation rather than a final validated model.
+This repository documents an evolving research investigation.
 
 The strongest conclusions from the current experiments are:
 
@@ -372,7 +371,6 @@ The strongest conclusions from the current experiments are:
 
 The repository contains `data/raw/` and `data/processed/` directories because the notebooks use a reproducible data-processing pipeline.
 
-Before publishing the raw data, check that each source permits redistribution through GitHub. Where redistribution is restricted, keep the raw files outside the repository and provide instructions for obtaining them separately.
 
 ---
 
